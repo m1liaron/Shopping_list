@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+.title{
+  width: 400px;
+  font-size: 40px;
+  margin: 0 auto;
+}
+form input,button {
+}
+.container{
+  margin: auto;
+}
+ul,li {
+  list-style: none;
+  max-width: 300px;
+}
+.shopping_list{
+  width: 400px;
+  height: auto;
+  background-color:white;
+  border-radius: 20px;
+  border-color: black;
+  margin: 0 auto;
+}
+.delete{
+  color: red;
+  border: none;
+}
+.delete:hover{
+  color: rgb(150, 0, 0);
+  cursor: pointer;
+}
